@@ -1,4 +1,4 @@
-# Semantics UI Basics 
+# Semantic UI React Basics 
 This is a basic Semantic UI React reference repository
 
 # More Resources:
